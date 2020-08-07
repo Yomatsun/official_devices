@@ -1,0 +1,4 @@
+Faster app loading
+August security patches
+Aggressive battery saving
+First Official build
