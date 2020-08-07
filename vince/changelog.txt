@@ -1,0 +1,8 @@
+Screen Recorder tweak ( should lag less )
+Disable Fluence 
+Better Ram management
+Address some denials
+Battery Health should be fixed
+Enable AOSP Surface flinger
+Upstream Kernel to 4.9.232
+August Coral Fingerprint 
