@@ -1,11 +1,5 @@
-Fixed volume not being adjusted during call on speaker
-Fixed mic issues
-Fixed noise during calls
-Enhanced audio
-Optimised app opening speed 
-Fixed call recording
-Fixed recorder 
-Fixed low network issues 
-Fixed issues with time daemon
-Switched to coral fingerprint
-More fixes and improvisations here and there
+Updated graphics from LA.UM.8.6.r1-04400-89xx
+Switched back to stock finerprint 
+Enabled agps
+Change wallpaper if you encounter UI lags
+Some minor cleanup/improvisations
