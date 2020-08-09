@@ -1,4 +1,2 @@
-Sync with latest LineageOS changes
-Update blobs from jasmine V11.0.11.0.QDIMIXM
-Increase audio HAL buffer size to 240
-Switch to QTI bt stack and enable a2dp offload
+Latest changes from LineageOS sdm660-common device tree
+Upstreamed kernel
