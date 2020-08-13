@@ -1,0 +1,4 @@
+!!CLEAN FLASH SUGGESTED!!
+Rebased over xiaomi-sdm660-devs trees
+Upstreamed kernel to 4.4.226 (the kernel name says it all)
+Fixed Dirac audio
