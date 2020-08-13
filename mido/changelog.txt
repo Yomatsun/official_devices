@@ -1,22 +1,20 @@
-All previous changes till now +
-Adding XiaomiParts into the whitelist
-Adding XiaomiParts into the whitelist
-Address some Sepolicy denails
-Fix dual sim devices ( Maybe Working, Maybe Not )
-Enable QC framework value-adds
-Update the default network mode to T/L/G/W/1x/Evdo on both sub
-Make WiFi Calling preference editable for Jio (India)
-Fix display wakeup
-Disable sys.use_fifo_ui
-Enable fluence for audio/voice recording
-Added EAS PowerHal
-Setup sepolicy for libperfmgr
-Import optimized powerhint for mido
-Configure thermal throttle limit
-Enable 4k on front cam
-Update factory version to v2.1
-Enable memory optimizations
-Force background tasks on little cores
-Update auto/screen brightness overlay from Daisy
-Fix kgsl-3d0 node connecction
-Address missing denails for EAS and other stuff
+Added Pixel PowerHal with modifications for mido
+XiaomiParts: Add new Vibration Control
+Add dex2oat denials
+Remove cpuset foreground boost
+Improve scrolling responsiveness
+Import and Update data-ipa-cfg-mgr from LA.UM.8.6.2.r1-07800-89xx.0
+Updated hals from LA.UM.8.6.2.r1-08100-89xx.0
+Add highspeed recording profiles
+Improve ZSL/HDR processing
+Tune zram performance
+Fix some camera related stuff
+Reduce wifi battery drain
+Clear settings cache after dirty flash
+Fix display wakeup ( Maybe work )
+Address lots of sepolicy denails and fixes
+Fix freezing issue
+Improve battery backup
+Boost app opening speed
+Boost RAM Management
+and a lot of under the hood optimizations that i forgot to mention...
