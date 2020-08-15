@@ -1,4 +1,6 @@
-Update QP gallery
-Update Firefox Lite
-Some Misc Changes
-Some Fixes 
+Updated Adreno & Vulkan Blobs
+Add parameters for Hotspot 2.0 
+Add Moto Dolby
+Removed Fire Fox Lite'
+Add Adreno Props
+Many under the hood changes
