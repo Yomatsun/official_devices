@@ -1,15 +1,11 @@
-enable zygote preforking 
-Set zRam disk size to 50% of RAM size. 
-Make UI Smoother
-Update post boot
-Enable YouTube 1080p
-Add props to improve Battery Backup
-enable zygote preforking 
-Better Memory Management
-Improve Touch 
-More fixes
-Use Coral fp & upstreamed to july patch
 Cleaned up tree
-
-
-Notes : Use WeebGapps or NikGapps
+Switch to Coral FP August
+Dex2oat filter = speed
+Disable VSync for CPU rendered apps
+Compile HWUI for Better Performance
+Force triple frame buffers
+Remove dead RCS packages
+Add AOSP RCS packages
+Add Call recording Overlay
+Update graphics from LA.UM.8.6.r1-04400-89xx
+Change kernel to Mizu EAS
