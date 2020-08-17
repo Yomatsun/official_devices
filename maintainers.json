@@ -249,5 +249,14 @@
         "maintainer": "szradev",
         "telegram": "szradev",
         "xda_thread": ""
+    },
+
+    "taimen":
+    {
+        "brand": "Google",
+        "name": "Pixel 2 XL",
+        "maintainer": "Yomatsun",
+        "telegram": "Yomatsun",
+        "xda_thread": ""
     }
 }
